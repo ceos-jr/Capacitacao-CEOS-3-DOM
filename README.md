@@ -5,9 +5,11 @@ pode ser utilizado para aumentar a interatividade do nosso site, melhorando na r
 
 # Índice de Conteúdos
 
-1 - Definindo o DOM 
+0 - Definindo o DOM 
 <!--     Definir o que é o DOM, para que serve, e porque precisamos entender ele. É interessante apresentar imagens, para que fique claro como o DOM é conceitualmente.
  -->
+
+1 - Onde escrever nosso Javascript
 
 2 - Como acessar um elemento do DOM
 <!--     Mostrar como podemos acessar um elemento do DOM, dentre as diversas formas possíveis (por id, pela tag do elemento, etc.)
